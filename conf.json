@@ -1,6 +1,6 @@
 {
-  "git_url": "<Your GitHub Web URL>",
-  "local_repository": "jmeter-sample",
-  "qtest_api_token": "<Your API Token>",
+  "git_url": "https://github.com/nrccua-taylor/UMS-NRCCUA-Jmeter",
+  "local_repository": "C:\Users\taylor.sablowsky\Documents\UMS-Jmeter\ums-test-automation-master\FunctionalTests",
+  "qtest_api_token": "bnJjY3VhfHRheWxvci5zYWJsb3dza3lAbnJjY3VhLm9yZzoxNTg2Mzc1NTU5OTM3OjEyNjVhOTEwZmFjNmE0OWU4NTA0MWZlOTkzNTZiYjM3",
   "qtest_url": "<Your qTest URL>"
 }
